@@ -13,6 +13,9 @@ This setup is intended for users who already have the MTVehicles/Geyser plugin i
 ## Support and Issues
 If by chance the pack becomes outdated or a bug is present feel free to contact me in the Geyser discord server (ping @Tydium), or make an issue report here in the github. I will fix the issue as soon as possible.
 
+## Notice
+I am not the owner or creator of the original MTVehicles plugin. I am just part of the community and have created this resource pack for the public. Please do not contact me for general issues about the plugin or java version of the resource pack. Thank you.
+
 ## Preview
 
 ![image](https://user-images.githubusercontent.com/67938521/225157976-ad5de52c-f050-4d7e-9765-71ff8c8339cc.png)
