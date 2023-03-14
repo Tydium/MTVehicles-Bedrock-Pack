@@ -1,0 +1,125 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "minetopiaclassic.horn1": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn1"
+      ]
+    },
+    "minetopiaclassic.horn2": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn2"
+      ]
+    },
+    "minetopiaclassic.horn3": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn3"
+      ]
+    },
+    "minetopiaclassic.horn4": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn4"
+      ]
+    },
+    "minetopiaclassic.horn5": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn5"
+      ]
+    },
+    "minetopiaclassic.horn6": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn6"
+      ]
+    },
+    "minetopiaclassic.horn7": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn7"
+      ]
+    },
+    "minetopiaclassic.horn8": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn8"
+      ]
+    },
+    "minetopiaclassic.horn9": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn9"
+      ]
+    },
+    "minetopiaclassic.horn10": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn10"
+      ]
+    },
+    "minetopiaclassic.horn11": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn11"
+      ]
+    },
+    "minetopiaclassic.horn12": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn12"
+      ]
+    },
+    "minetopiaclassic.horn13": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn13"
+      ]
+    },
+    "minetopiaclassic.horn14": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn14"
+      ]
+    },
+    "minetopiaclassic.horn15": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn15"
+      ]
+    },
+    "minetopiaclassic.horn16": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn16"
+      ]
+    },
+    "minetopiaclassic.horn17": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn17"
+      ]
+    },
+    "minetopiaclassic.horn18": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn18"
+      ]
+    },
+    "minetopiaclassic.horn19": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn19"
+      ]
+    },
+    "minetopiaclassic.horn20": {
+      "max_distance": 64,
+      "sounds": [
+        "sounds/customminetopia_vehicles/horn20"
+      ]
+    }
+  }
+}

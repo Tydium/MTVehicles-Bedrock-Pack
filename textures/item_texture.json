@@ -1,0 +1,1116 @@
+{
+    "resource_pack_name": "geyser_custom",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "apache_black": {
+            "textures": [
+                "textures/3D/apache_black"
+            ]
+        },
+        "apache_blue": {
+            "textures": [
+                "textures/3D/apache_blue"
+            ]
+        },
+        "apache_bordeaux": {
+            "textures": [
+                "textures/3D/apache_bordeaux"
+            ]
+        },
+        "apache_brown": {
+            "textures": [
+                "textures/3D/apache_brown"
+            ]
+        },
+        "apache_criminalblack": {
+            "textures": [
+                "textures/3D/apache_criminalblack"
+            ]
+        },
+        "apache_gold": {
+            "textures": [
+                "textures/3D/apache_gold"
+            ]
+        },
+        "apache_gray": {
+            "textures": [
+                "textures/3D/apache_gray"
+            ]
+        },
+        "apache_green": {
+            "textures": [
+                "textures/3D/apache_green"
+            ]
+        },
+        "apache_leaves": {
+            "textures": [
+                "textures/3D/apache_leaves"
+            ]
+        },
+        "apache_mint": {
+            "textures": [
+                "textures/3D/apache_mint"
+            ]
+        },
+        "apache_obsidian": {
+            "textures": [
+                "textures/3D/apache_obsidian"
+            ]
+        },
+        "apache_orange": {
+            "textures": [
+                "textures/3D/apache_orange"
+            ]
+        },
+        "apache_pink_1": {
+            "textures": [
+                "textures/3D/apache_pink"
+            ]
+        },
+        "apache_pink_2": {
+            "textures": [
+                "textures/3D/apache_pink"
+            ]
+        },
+        "apache_red": {
+            "textures": [
+                "textures/3D/apache_red"
+            ]
+        },
+        "apache_roodze": {
+            "textures": [
+                "textures/3D/apache_roodze"
+            ]
+        },
+        "apache_upperblue": {
+            "textures": [
+                "textures/3D/apache_upperblue"
+            ]
+        },
+        "broomstick": {
+            "textures": [
+                "textures/3D/broomstick"
+            ]
+        },
+        "broomstick2": {
+            "textures": [
+                "textures/3D/broomstick2"
+            ]
+        },
+        "broomstick3": {
+            "textures": [
+                "textures/3D/broomstick3"
+            ]
+        },
+        "broomstick4": {
+            "textures": [
+                "textures/3D/broomstick4"
+            ]
+        },
+        "broomstick5": {
+            "textures": [
+                "textures/3D/broomstick5"
+            ]
+        },
+        "fiets_man_babyblue": {
+            "textures": [
+                "textures/3D/fiets_man_babyblue"
+            ]
+        },
+        "fiets_man_blueblack": {
+            "textures": [
+                "textures/3D/fiets_man_blueblack"
+            ]
+        },
+        "fiets_man_bluediamond": {
+            "textures": [
+                "textures/3D/fiets_man_bluediamond"
+            ]
+        },
+        "fiets_man_brown": {
+            "textures": [
+                "textures/3D/fiets_man_brown"
+            ]
+        },
+        "fiets_man_gold": {
+            "textures": [
+                "textures/3D/fiets_man_gold"
+            ]
+        },
+        "fiets_man_gray": {
+            "textures": [
+                "textures/3D/fiets_man_gray"
+            ]
+        },
+        "fiets_man_green": {
+            "textures": [
+                "textures/3D/fiets_man_green"
+            ]
+        },
+        "fiets_man_king": {
+            "textures": [
+                "textures/3D/fiets_man_king"
+            ]
+        },
+        "fiets_man_pink": {
+            "textures": [
+                "textures/3D/fiets_man_pink"
+            ]
+        },
+        "fiets_man_red": {
+            "textures": [
+                "textures/3D/fiets_man_red"
+            ]
+        },
+        "fiets_vrouw_babygirl": {
+            "textures": [
+                "textures/3D/fiets_vrouw_babygirl"
+            ]
+        },
+        "fiets_vrouw_blueblack": {
+            "textures": [
+                "textures/3D/fiets_vrouw_blueblack"
+            ]
+        },
+        "fiets_vrouw_bluediamond": {
+            "textures": [
+                "textures/3D/fiets_vrouw_bluediamond"
+            ]
+        },
+        "fiets_vrouw_brown": {
+            "textures": [
+                "textures/3D/fiets_vrouw_brown"
+            ]
+        },
+        "fiets_vrouw_gold": {
+            "textures": [
+                "textures/3D/fiets_vrouw_gold"
+            ]
+        },
+        "fiets_vrouw_gray": {
+            "textures": [
+                "textures/3D/fiets_vrouw_gray"
+            ]
+        },
+        "fiets_vrouw_green": {
+            "textures": [
+                "textures/3D/fiets_vrouw_green"
+            ]
+        },
+        "fiets_vrouw_king": {
+            "textures": [
+                "textures/3D/fiets_vrouw_king"
+            ]
+        },
+        "fiets_vrouw_pink": {
+            "textures": [
+                "textures/3D/fiets_vrouw_pink"
+            ]
+        },
+        "fiets_vrouw_rainbow": {
+            "textures": [
+                "textures/3D/fiets_vrouw_rainbow"
+            ]
+        },
+        "fiets_vrouw_red": {
+            "textures": [
+                "textures/3D/fiets_vrouw_red"
+            ]
+        },
+        "hotrod_army": {
+            "textures": [
+                "textures/3D/hotrod_army"
+            ]
+        },
+        "hotrod_black": {
+            "textures": [
+                "textures/3D/hotrod_black"
+            ]
+        },
+        "hotrod_blackyellow_3": {
+            "textures": [
+                "textures/3D/hotrod_blackyellow"
+            ]
+        },
+        "hotrod_blackyellow_4": {
+            "textures": [
+                "textures/3D/hotrod_blackyellow"
+            ]
+        },
+        "hotrod_blue": {
+            "textures": [
+                "textures/3D/hotrod_blue"
+            ]
+        },
+        "hotrod_gold": {
+            "textures": [
+                "textures/3D/hotrod_gold"
+            ]
+        },
+        "hotrod_orange": {
+            "textures": [
+                "textures/3D/hotrod_orange"
+            ]
+        },
+        "hotrod_pink": {
+            "textures": [
+                "textures/3D/hotrod_pink"
+            ]
+        },
+        "hotrod_red": {
+            "textures": [
+                "textures/3D/hotrod_red"
+            ]
+        },
+        "hotrod_valentijn": {
+            "textures": [
+                "textures/3D/hotrod_valentijn"
+            ]
+        },
+        "hoverboard_babyblue": {
+            "textures": [
+                "textures/3D/hoverboard_babyblue"
+            ]
+        },
+        "hoverboard_blue": {
+            "textures": [
+                "textures/3D/hoverboard_blue"
+            ]
+        },
+        "hoverboard_champagne": {
+            "textures": [
+                "textures/3D/hoverboard_champagne"
+            ]
+        },
+        "hoverboard_desert": {
+            "textures": [
+                "textures/3D/hoverboard_desert"
+            ]
+        },
+        "hoverboard_ender": {
+            "textures": [
+                "textures/3D/hoverboard_ender"
+            ]
+        },
+        "hoverboard_gold": {
+            "textures": [
+                "textures/3D/hoverboard_gold"
+            ]
+        },
+        "hoverboard_goldenglass": {
+            "textures": [
+                "textures/3D/hoverboard_goldenglass"
+            ]
+        },
+        "hoverboard_green": {
+            "textures": [
+                "textures/3D/hoverboard_green"
+            ]
+        },
+        "hoverboard_lemonyellow": {
+            "textures": [
+                "textures/3D/hoverboard_lemonyellow"
+            ]
+        },
+        "hoverboard_orange": {
+            "textures": [
+                "textures/3D/hoverboard_orange"
+            ]
+        },
+        "hoverboard_purple": {
+            "textures": [
+                "textures/3D/hoverboard_purple"
+            ]
+        },
+        "hoverboard_red": {
+            "textures": [
+                "textures/3D/hoverboard_red"
+            ]
+        },
+        "hoverboard_white": {
+            "textures": [
+                "textures/3D/hoverboard_white"
+            ]
+        },
+        "hoverboard_yellow": {
+            "textures": [
+                "textures/3D/hoverboard_yellow"
+            ]
+        },
+        "hovercraft_animatedpurpleyellow": {
+            "textures": [
+                "textures/3D/hovercraft_animatedpurpleyellow"
+            ]
+        },
+        "hovercraft_black": {
+            "textures": [
+                "textures/3D/hovercraft_black"
+            ]
+        },
+        "hovercraft_gold": {
+            "textures": [
+                "textures/3D/hovercraft_gold"
+            ]
+        },
+        "hovercraft_lime": {
+            "textures": [
+                "textures/3D/hovercraft_lime"
+            ]
+        },
+        "hovercraft_orange": {
+            "textures": [
+                "textures/3D/hovercraft_orange"
+            ]
+        },
+        "hovercraft_white": {
+            "textures": [
+                "textures/3D/hovercraft_white"
+            ]
+        },
+        "jeep_blue": {
+            "textures": [
+                "textures/3D/jeep_blue"
+            ]
+        },
+        "jeep_gold": {
+            "textures": [
+                "textures/3D/jeep_gold"
+            ]
+        },
+        "jeep_politie": {
+            "textures": [
+                "textures/3D/jeep_politie"
+            ]
+        },
+        "motor_blue": {
+            "textures": [
+                "textures/3D/motor_blue"
+            ]
+        },
+        "motor_easter": {
+            "textures": [
+                "textures/3D/motor_easter"
+            ]
+        },
+        "motor_gold": {
+            "textures": [
+                "textures/3D/motor_gold"
+            ]
+        },
+        "motor_gray_5": {
+            "textures": [
+                "textures/3D/motor_gray"
+            ]
+        },
+        "motor_gray_6": {
+            "textures": [
+                "textures/3D/motor_gray"
+            ]
+        },
+        "motor_gray_7": {
+            "textures": [
+                "textures/3D/motor_gray"
+            ]
+        },
+        "motor_green": {
+            "textures": [
+                "textures/3D/motor_green"
+            ]
+        },
+        "motor_koningsdag": {
+            "textures": [
+                "textures/3D/motor_koningsdag"
+            ]
+        },
+        "motor_orange": {
+            "textures": [
+                "textures/3D/motor_orange"
+            ]
+        },
+        "motor_pink": {
+            "textures": [
+                "textures/3D/motor_pink"
+            ]
+        },
+        "motor_police": {
+            "textures": [
+                "textures/3D/motor_police"
+            ]
+        },
+        "motor_red": {
+            "textures": [
+                "textures/3D/motor_red"
+            ]
+        },
+        "motor_vierjaar": {
+            "textures": [
+                "textures/3D/motor_vierjaar"
+            ]
+        },
+        "plane": {
+            "textures": [
+                "textures/3D/plane"
+            ]
+        },
+        "planeblue": {
+            "textures": [
+                "textures/3D/planeblue"
+            ]
+        },
+        "planedragon": {
+            "textures": [
+                "textures/3D/planedragon"
+            ]
+        },
+        "planefighter": {
+            "textures": [
+                "textures/3D/planefighter"
+            ]
+        },
+        "planefighter_oranje": {
+            "textures": [
+                "textures/3D/planefighter_oranje"
+            ]
+        },
+        "planegold": {
+            "textures": [
+                "textures/3D/planegold"
+            ]
+        },
+        "planegreen": {
+            "textures": [
+                "textures/3D/planegreen"
+            ]
+        },
+        "planeoctopus": {
+            "textures": [
+                "textures/3D/planeoctopus"
+            ]
+        },
+        "planeorange": {
+            "textures": [
+                "textures/3D/planeorange"
+            ]
+        },
+        "planepurple": {
+            "textures": [
+                "textures/3D/planepurple"
+            ]
+        },
+        "racecar_animatedrainbow": {
+            "textures": [
+                "textures/3D/racecar_animatedrainbow"
+            ]
+        },
+        "racecar_black": {
+            "textures": [
+                "textures/3D/racecar_black"
+            ]
+        },
+        "racecar_diamond": {
+            "textures": [
+                "textures/3D/racecar_diamond"
+            ]
+        },
+        "racecar_emerald": {
+            "textures": [
+                "textures/3D/racecar_emerald"
+            ]
+        },
+        "racecar_ender": {
+            "textures": [
+                "textures/3D/racecar_ender"
+            ]
+        },
+        "racecar_gold": {
+            "textures": [
+                "textures/3D/racecar_gold"
+            ]
+        },
+        "racecar_orange": {
+            "textures": [
+                "textures/3D/racecar_orange"
+            ]
+        },
+        "racecar_orangeblack": {
+            "textures": [
+                "textures/3D/racecar_orangeblack"
+            ]
+        },
+        "racecar_pink": {
+            "textures": [
+                "textures/3D/racecar_pink"
+            ]
+        },
+        "racecar_purplefade": {
+            "textures": [
+                "textures/3D/racecar_purplefade"
+            ]
+        },
+        "racecar_red": {
+            "textures": [
+                "textures/3D/racecar_red"
+            ]
+        },
+        "raket_legend_black": {
+            "textures": [
+                "textures/3D/raket_legend_black"
+            ]
+        },
+        "raket_legend_camodark": {
+            "textures": [
+                "textures/3D/raket_legend_camodark"
+            ]
+        },
+        "raket_legend_camoforest": {
+            "textures": [
+                "textures/3D/raket_legend_camoforest"
+            ]
+        },
+        "raket_legend_camomarine": {
+            "textures": [
+                "textures/3D/raket_legend_camomarine"
+            ]
+        },
+        "raket_legend_desert": {
+            "textures": [
+                "textures/3D/raket_legend_desert"
+            ]
+        },
+        "raket_legend_green": {
+            "textures": [
+                "textures/3D/raket_legend_green"
+            ]
+        },
+        "raket_legend_sand": {
+            "textures": [
+                "textures/3D/raket_legend_sand"
+            ]
+        },
+        "sedan_babyblue": {
+            "textures": [
+                "textures/3D/sedan_babyblue"
+            ]
+        },
+        "sedan_beige": {
+            "textures": [
+                "textures/3D/sedan_beige"
+            ]
+        },
+        "sedan_black": {
+            "textures": [
+                "textures/3D/sedan_black"
+            ]
+        },
+        "sedan_brown": {
+            "textures": [
+                "textures/3D/sedan_brown"
+            ]
+        },
+        "sedan_cars": {
+            "textures": [
+                "textures/3D/sedan_cars"
+            ]
+        },
+        "sedan_cognac": {
+            "textures": [
+                "textures/3D/sedan_cognac"
+            ]
+        },
+        "sedan_gray": {
+            "textures": [
+                "textures/3D/sedan_gray"
+            ]
+        },
+        "sedan_green": {
+            "textures": [
+                "textures/3D/sedan_green"
+            ]
+        },
+        "sedan_kerst": {
+            "textures": [
+                "textures/3D/sedan_kerst"
+            ]
+        },
+        "sedan_koningsdag": {
+            "textures": [
+                "textures/3D/sedan_koningsdag"
+            ]
+        },
+        "sedan_lemonyellow": {
+            "textures": [
+                "textures/3D/sedan_lemonyellow"
+            ]
+        },
+        "sedan_lesauto": {
+            "textures": [
+                "textures/3D/sedan_lesauto"
+            ]
+        },
+        "sedan_lightning": {
+            "textures": [
+                "textures/3D/sedan_lightning"
+            ]
+        },
+        "sedan_lily": {
+            "textures": [
+                "textures/3D/sedan_lily"
+            ]
+        },
+        "sedan_monster": {
+            "textures": [
+                "textures/3D/sedan_monster"
+            ]
+        },
+        "sedan_navyblauw": {
+            "textures": [
+                "textures/3D/sedan_navyblauw"
+            ]
+        },
+        "sedan_pink": {
+            "textures": [
+                "textures/3D/sedan_pink"
+            ]
+        },
+        "sedan_politie": {
+            "textures": [
+                "textures/3D/sedan_politie"
+            ]
+        },
+        "sedan_purple": {
+            "textures": [
+                "textures/3D/sedan_purple"
+            ]
+        },
+        "sedan_red": {
+            "textures": [
+                "textures/3D/sedan_red"
+            ]
+        },
+        "sedan_sportief_1": {
+            "textures": [
+                "textures/3D/sedan_sportief_1"
+            ]
+        },
+        "sedan_sportief_2": {
+            "textures": [
+                "textures/3D/sedan_sportief_2"
+            ]
+        },
+        "sedan_sportief_3": {
+            "textures": [
+                "textures/3D/sedan_sportief_3"
+            ]
+        },
+        "sedan_sportief_4": {
+            "textures": [
+                "textures/3D/sedan_sportief_4"
+            ]
+        },
+        "sedan_sportief_babyboy": {
+            "textures": [
+                "textures/3D/sedan_sportief_babyboy"
+            ]
+        },
+        "sedan_sportief_babygirl": {
+            "textures": [
+                "textures/3D/sedan_sportief_babygirl"
+            ]
+        },
+        "sedan_sportief_diamond": {
+            "textures": [
+                "textures/3D/sedan_sportief_diamond"
+            ]
+        },
+        "sedan_sportief_emerald": {
+            "textures": [
+                "textures/3D/sedan_sportief_emerald"
+            ]
+        },
+        "sedan_sportief_gold": {
+            "textures": [
+                "textures/3D/sedan_sportief_gold"
+            ]
+        },
+        "sedan_sportief_goldv2": {
+            "textures": [
+                "textures/3D/sedan_sportief_goldv2"
+            ]
+        },
+        "sedan_sportief_kerst": {
+            "textures": [
+                "textures/3D/sedan_sportief_kerst"
+            ]
+        },
+        "sedan_sportief_lego": {
+            "textures": [
+                "textures/3D/sedan_sportief_lego"
+            ]
+        },
+        "sedan_sportief_obsidian_8": {
+            "textures": [
+                "textures/3D/sedan_sportief_obsidian"
+            ]
+        },
+        "sedan_sportief_obsidian_9": {
+            "textures": [
+                "textures/3D/sedan_sportief_obsidian"
+            ]
+        },
+        "sedan_sportief_president": {
+            "textures": [
+                "textures/3D/sedan_sportief_president"
+            ]
+        },
+        "sedan_sportief_quarts": {
+            "textures": [
+                "textures/3D/sedan_sportief_quarts"
+            ]
+        },
+        "sedan_sportief_rainbow": {
+            "textures": [
+                "textures/3D/sedan_sportief_rainbow"
+            ]
+        },
+        "sedan_yellow": {
+            "textures": [
+                "textures/3D/sedan_yellow"
+            ]
+        },
+        "sedan_zalm": {
+            "textures": [
+                "textures/3D/sedan_zalm"
+            ]
+        },
+        "sportief_black": {
+            "textures": [
+                "textures/3D/sportief_black"
+            ]
+        },
+        "sportief_blackyellow": {
+            "textures": [
+                "textures/3D/sportief_blackyellow"
+            ]
+        },
+        "sportief_bordeauxclean": {
+            "textures": [
+                "textures/3D/sportief_bordeauxclean"
+            ]
+        },
+        "sportief_diamond": {
+            "textures": [
+                "textures/3D/sportief_diamond"
+            ]
+        },
+        "sportief_emerald": {
+            "textures": [
+                "textures/3D/sportief_emerald"
+            ]
+        },
+        "sportief_fakegold": {
+            "textures": [
+                "textures/3D/sportief_fakegold"
+            ]
+        },
+        "sportief_fakegoldclean": {
+            "textures": [
+                "textures/3D/sportief_fakegoldclean"
+            ]
+        },
+        "sportief_flameblue": {
+            "textures": [
+                "textures/3D/sportief_flameblue"
+            ]
+        },
+        "sportief_flamegreen": {
+            "textures": [
+                "textures/3D/sportief_flamegreen"
+            ]
+        },
+        "sportief_flamepink": {
+            "textures": [
+                "textures/3D/sportief_flamepink"
+            ]
+        },
+        "sportief_flamered": {
+            "textures": [
+                "textures/3D/sportief_flamered"
+            ]
+        },
+        "sportief_flamewhite": {
+            "textures": [
+                "textures/3D/sportief_flamewhite"
+            ]
+        },
+        "sportief_forest": {
+            "textures": [
+                "textures/3D/sportief_forest"
+            ]
+        },
+        "sportief_forestclean": {
+            "textures": [
+                "textures/3D/sportief_forestclean"
+            ]
+        },
+        "sportief_gold": {
+            "textures": [
+                "textures/3D/sportief_gold"
+            ]
+        },
+        "sportief_koningsclean": {
+            "textures": [
+                "textures/3D/sportief_koningsclean"
+            ]
+        },
+        "sportief_navyblauw": {
+            "textures": [
+                "textures/3D/sportief_navyblauw"
+            ]
+        },
+        "sportief_nietrood": {
+            "textures": [
+                "textures/3D/sportief_nietrood"
+            ]
+        },
+        "sportief_nietroodclean": {
+            "textures": [
+                "textures/3D/sportief_nietroodclean"
+            ]
+        },
+        "sportief_orange": {
+            "textures": [
+                "textures/3D/sportief_orange"
+            ]
+        },
+        "sportief_peppa": {
+            "textures": [
+                "textures/3D/sportief_peppa"
+            ]
+        },
+        "sportief_peppaclean": {
+            "textures": [
+                "textures/3D/sportief_peppaclean"
+            ]
+        },
+        "sportief_pink": {
+            "textures": [
+                "textures/3D/sportief_pink"
+            ]
+        },
+        "sportief_puppel": {
+            "textures": [
+                "textures/3D/sportief_puppel"
+            ]
+        },
+        "sportief_puppelclean": {
+            "textures": [
+                "textures/3D/sportief_puppelclean"
+            ]
+        },
+        "sportief_white": {
+            "textures": [
+                "textures/3D/sportief_white"
+            ]
+        },
+        "suv_black": {
+            "textures": [
+                "textures/3D/suv_black"
+            ]
+        },
+        "suv_blue": {
+            "textures": [
+                "textures/3D/suv_blue"
+            ]
+        },
+        "suv_bordeaux": {
+            "textures": [
+                "textures/3D/suv_bordeaux"
+            ]
+        },
+        "suv_brown": {
+            "textures": [
+                "textures/3D/suv_brown"
+            ]
+        },
+        "suv_cabrio_greenwhite": {
+            "textures": [
+                "textures/3D/suv_cabrio_greenwhite"
+            ]
+        },
+        "suv_cabrio_lightbluewhite": {
+            "textures": [
+                "textures/3D/suv_cabrio_lightbluewhite"
+            ]
+        },
+        "suv_cabrio_orangeblack": {
+            "textures": [
+                "textures/3D/suv_cabrio_orangeblack"
+            ]
+        },
+        "suv_cabrio_pinkwhite": {
+            "textures": [
+                "textures/3D/suv_cabrio_pinkwhite"
+            ]
+        },
+        "suv_cabrio_purplewhite": {
+            "textures": [
+                "textures/3D/suv_cabrio_purplewhite"
+            ]
+        },
+        "suv_cabrio_redblack": {
+            "textures": [
+                "textures/3D/suv_cabrio_redblack"
+            ]
+        },
+        "suv_criminalblack": {
+            "textures": [
+                "textures/3D/suv_criminalblack"
+            ]
+        },
+        "suv_ender": {
+            "textures": [
+                "textures/3D/suv_ender"
+            ]
+        },
+        "suv_giraffe": {
+            "textures": [
+                "textures/3D/suv_giraffe"
+            ]
+        },
+        "suv_gold": {
+            "textures": [
+                "textures/3D/suv_gold"
+            ]
+        },
+        "suv_green": {
+            "textures": [
+                "textures/3D/suv_green"
+            ]
+        },
+        "suv_lime": {
+            "textures": [
+                "textures/3D/suv_lime"
+            ]
+        },
+        "suv_navyblue": {
+            "textures": [
+                "textures/3D/suv_navyblue"
+            ]
+        },
+        "suv_pink": {
+            "textures": [
+                "textures/3D/suv_pink"
+            ]
+        },
+        "suv_pokemon": {
+            "textures": [
+                "textures/3D/suv_pokemon"
+            ]
+        },
+        "suv_politie": {
+            "textures": [
+                "textures/3D/suv_politie"
+            ]
+        },
+        "suv_red": {
+            "textures": [
+                "textures/3D/suv_red"
+            ]
+        },
+        "suv_stars": {
+            "textures": [
+                "textures/3D/suv_stars"
+            ]
+        },
+        "suv_upperblue": {
+            "textures": [
+                "textures/3D/suv_upperblue"
+            ]
+        },
+        "suv_white": {
+            "textures": [
+                "textures/3D/suv_white"
+            ]
+        },
+        "suv_yellow": {
+            "textures": [
+                "textures/3D/suv_yellow"
+            ]
+        },
+        "tank_legend_black": {
+            "textures": [
+                "textures/3D/tank_legend_black"
+            ]
+        },
+        "tank_legend_camodark": {
+            "textures": [
+                "textures/3D/tank_legend_camodark"
+            ]
+        },
+        "tank_legend_camoforest": {
+            "textures": [
+                "textures/3D/tank_legend_camoforest"
+            ]
+        },
+        "tank_legend_camomarine": {
+            "textures": [
+                "textures/3D/tank_legend_camomarine"
+            ]
+        },
+        "tank_legend_desert": {
+            "textures": [
+                "textures/3D/tank_legend_desert"
+            ]
+        },
+        "tank_legend_green": {
+            "textures": [
+                "textures/3D/tank_legend_green"
+            ]
+        },
+        "tank_legend_sand": {
+            "textures": [
+                "textures/3D/tank_legend_sand"
+            ]
+        },
+        "ufo_vehicle": {
+            "textures": [
+                "textures/3D/ufo_vehicle"
+            ]
+        },
+        "ufo_vehicle_black": {
+            "textures": [
+                "textures/3D/ufo_vehicle_black"
+            ]
+        },
+        "ufo_vehicle_blackgold": {
+            "textures": [
+                "textures/3D/ufo_vehicle_blackgold"
+            ]
+        },
+        "ufo_vehicle_blue": {
+            "textures": [
+                "textures/3D/ufo_vehicle_blue"
+            ]
+        },
+        "ufo_vehicle_orange": {
+            "textures": [
+                "textures/3D/ufo_vehicle_orange"
+            ]
+        },
+        "ufo_vehicle_purple": {
+            "textures": [
+                "textures/3D/ufo_vehicle_purple"
+            ]
+        },
+        "wieken_groot": {
+            "textures": [
+                "textures/3D/wieken_groot"
+            ]
+        },
+        "wieken_klein": {
+            "textures": [
+                "textures/3D/wieken_klein"
+            ]
+        }
+    }
+}

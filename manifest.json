@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Converted by Tydium",
+        "name": "§2[MTVehicles]",
+        "uuid": "ce97b509-e632-4fd4-be91-e5c4f5c72eda",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            3
+        ]
+    },
+    "modules": [
+        {
+            "description": "Converted by Tydium",
+            "type": "resources",
+            "uuid": "00414037-bbe9-4cde-86d7-fe8feb8c6688",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

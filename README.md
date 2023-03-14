@@ -1,5 +1,5 @@
 # MTVehicles-Bedrock-Pack
-A fully converted geyser resource pack for the MTVehicles plugin.
+A fully converted geyser resource pack for the MTVehicles plugin. As far as I'm concerned everything should be working (sounds, textures, models, and inventory icons.)
 
 ## Setup
 This setup is intended for users who already have the MTVehicles/Geyser plugin inside of their server. Please make sure you set that up first before attempting this.
