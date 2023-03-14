@@ -4,7 +4,7 @@ A fully converted geyser resource pack for the MTVehicles plugin. As far as I'm 
 ## Setup
 This setup is intended for users who already have the MTVehicles/Geyser plugin inside of their server. Please make sure you set that up first before attempting this.
 
-1. Download the pack from the newest releases
+1. Download the pack and mappings from the newest [releases](https://github.com/Tydium/MTVehicles-Bedrock-Pack/releases)
 2. Put the MTVehicles1.0.0.mcpack into the "packs" folder of your geyser plugin folder.
 3. Put the MTVehicles1.0.0_mappings.json into the "custom_mappings" folder of your geyser plugin folder.
 4. Boot Geyser
