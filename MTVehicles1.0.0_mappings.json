@@ -1,0 +1,1575 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:diamond_hoe": [
+            {
+                "name": "jerrycan_full",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 58,
+                "unbreakable": true
+            },
+            {
+                "name": "jerrycan_empty",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 59,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_navyblauw",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1002,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_navyblauw",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1003,
+                "unbreakable": true
+            },
+            {
+                "name": "jeep_politie",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1005,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_red",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1006,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_gray",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1008,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_white",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1009,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_gray_7",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1013,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_politie",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1015,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_red",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1017,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_green",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1018,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_gray",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1019,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_pink",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1020,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_yellow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1021,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_brown",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1022,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_quarts",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1023,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_purple",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1024,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_diamond",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1025,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_koningsdag",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1026,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_rainbow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1027,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_lesauto",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1028,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1029,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_orange",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1030,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_green",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1031,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_blue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1032,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_red",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1033,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_yellow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1034,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_purple",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1035,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_orange",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1036,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_green",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1037,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_blue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1038,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1039,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_police",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1040,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_red",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1041,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_pink",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1042,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_green",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1043,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_brown",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1044,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_blueblack",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1045,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_gray",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1046,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_green",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1047,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_brown",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1048,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_blueblack",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1049,
+                "unbreakable": true
+            },
+            {
+                "name": "wieken_groot",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1058,
+                "unbreakable": true
+            },
+            {
+                "name": "wieken_klein",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1059,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_white",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1060,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_pink",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1061,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_blackyellow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1062,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_flamered",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1063,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_flameblue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1064,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_flamewhite",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1065,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1066,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_emerald",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1067,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_orange",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1068,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_diamond",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1069,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1070,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_goldv2",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1071,
+                "unbreakable": true
+            },
+            {
+                "name": "jeep_blue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1073,
+                "unbreakable": true
+            },
+            {
+                "name": "jeep_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1074,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_blackyellow_4",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1075,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_gray_6",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1090,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_gray_5",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1091,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_cars",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1099,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_lightning",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1100,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_monster",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1101,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_babyblue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1109,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_beige",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1110,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1111,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_cognac",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1112,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_lemonyellow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1113,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_lily",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1114,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_emerald",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1115,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_obsidian_8",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1116,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_zalm",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1117,
+                "unbreakable": true
+            },
+            {
+                "name": "hovercraft_lime",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1121,
+                "unbreakable": true
+            },
+            {
+                "name": "hovercraft_white",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1122,
+                "unbreakable": true
+            },
+            {
+                "name": "hovercraft_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1123,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_blue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1124,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_pink_2",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1125,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_green",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1126,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_brown",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1127,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_gray",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1128,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1129,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_red",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1130,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_upperblue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1131,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_blue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1132,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_brown",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1133,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1134,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_green",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1135,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_pink",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1136,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_red",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1137,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_upperblue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1138,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_white",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1139,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_yellow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1140,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1141,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1142,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_bluediamond",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1143,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1144,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_pink",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1145,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_red",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1146,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_bluediamond",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1147,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1148,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_pink",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1149,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_red",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1150,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_babyblue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1152,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_goldenglass",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1153,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_champagne",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1154,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_desert",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1155,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_ender",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1156,
+                "unbreakable": true
+            },
+            {
+                "name": "hoverboard_lemonyellow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1157,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1158,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_blue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1159,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_orange",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1160,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1161,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_pink",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1162,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_blackyellow_3",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1163,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_army",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1164,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1165,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_red",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1166,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_emerald",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1167,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1168,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_pink",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1169,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_diamond",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1170,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_orange",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1171,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_orangeblack",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1172,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_president",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1173,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_obsidian_9",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1174,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_gold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1175,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_1",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1176,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_2",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1177,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_3",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1178,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_4",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1179,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_pink_1",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1180,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_obsidian",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1181,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_leaves",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1182,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_orange",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1183,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_ender",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1184,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_politie",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1185,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_ender",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1186,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_rainbow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1187,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_stars",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1188,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_kerst",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1189,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_kerst",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1190,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_lego",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1191,
+                "unbreakable": true
+            },
+            {
+                "name": "hotrod_valentijn",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1192,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_purplefade",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1193,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_vierjaar",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1194,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_easter",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1195,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_koningsclean",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1196,
+                "unbreakable": true
+            },
+            {
+                "name": "motor_koningsdag",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1197,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_cabrio_orangeblack",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1198,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_king",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1199,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_king",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1200,
+                "unbreakable": true
+            },
+            {
+                "name": "hovercraft_orange",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1201,
+                "unbreakable": true
+            },
+            {
+                "name": "hovercraft_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1202,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_cabrio_redblack",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1203,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_cabrio_greenwhite",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1204,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_cabrio_lightbluewhite",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1207,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_cabrio_purplewhite",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1208,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_cabrio_pinkwhite",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1209,
+                "unbreakable": true
+            },
+            {
+                "name": "racecar_animatedrainbow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1210,
+                "unbreakable": true
+            },
+            {
+                "name": "hovercraft_animatedpurpleyellow",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1211,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_roodze",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1212,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_bordeaux",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1213,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_criminalblack",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1214,
+                "unbreakable": true
+            },
+            {
+                "name": "apache_mint",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1215,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_bordeauxclean",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1216,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_babygirl",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1217,
+                "unbreakable": true
+            },
+            {
+                "name": "sedan_sportief_babyboy",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1218,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_lime",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1219,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_criminalblack",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1220,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_navyblue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1221,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_bordeaux",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1222,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_flamegreen",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1223,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_flamepink",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1224,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_man_babyblue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1225,
+                "unbreakable": true
+            },
+            {
+                "name": "fiets_vrouw_babygirl",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1226,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_pokemon",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1227,
+                "unbreakable": true
+            },
+            {
+                "name": "suv_giraffe",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1228,
+                "unbreakable": true
+            },
+            {
+                "name": "broomstick",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1229,
+                "unbreakable": true
+            },
+            {
+                "name": "ufo_vehicle",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1230,
+                "unbreakable": true
+            },
+            {
+                "name": "ufo_vehicle_orange",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1231,
+                "unbreakable": true
+            },
+            {
+                "name": "ufo_vehicle_blackgold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1232,
+                "unbreakable": true
+            },
+            {
+                "name": "ufo_vehicle_purple",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1233,
+                "unbreakable": true
+            },
+            {
+                "name": "ufo_vehicle_blue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1234,
+                "unbreakable": true
+            },
+            {
+                "name": "ufo_vehicle_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1235,
+                "unbreakable": true
+            },
+            {
+                "name": "broomstick2",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1236,
+                "unbreakable": true
+            },
+            {
+                "name": "broomstick3",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1237,
+                "unbreakable": true
+            },
+            {
+                "name": "broomstick4",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1238,
+                "unbreakable": true
+            },
+            {
+                "name": "broomstick5",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1239,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_forest",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1240,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_forestclean",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1241,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_puppel",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1242,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_puppelclean",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1243,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_nietrood",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1244,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_nietroodclean",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1245,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_fakegold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1246,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_fakegoldclean",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1247,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_peppa",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1248,
+                "unbreakable": true
+            },
+            {
+                "name": "sportief_peppaclean",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1249,
+                "unbreakable": true
+            },
+            {
+                "name": "tank_legend_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1250,
+                "unbreakable": true
+            },
+            {
+                "name": "tank_legend_camodark",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1251,
+                "unbreakable": true
+            },
+            {
+                "name": "tank_legend_camoforest",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1252,
+                "unbreakable": true
+            },
+            {
+                "name": "tank_legend_camomarine",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1253,
+                "unbreakable": true
+            },
+            {
+                "name": "tank_legend_desert",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1254,
+                "unbreakable": true
+            },
+            {
+                "name": "tank_legend_green",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1255,
+                "unbreakable": true
+            },
+            {
+                "name": "tank_legend_sand",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1256,
+                "unbreakable": true
+            },
+            {
+                "name": "raket_legend_black",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1257,
+                "unbreakable": true
+            },
+            {
+                "name": "raket_legend_camodark",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1258,
+                "unbreakable": true
+            },
+            {
+                "name": "raket_legend_camoforest",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1259,
+                "unbreakable": true
+            },
+            {
+                "name": "raket_legend_camomarine",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1260,
+                "unbreakable": true
+            },
+            {
+                "name": "raket_legend_desert",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1261,
+                "unbreakable": true
+            },
+            {
+                "name": "raket_legend_green",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1262,
+                "unbreakable": true
+            },
+            {
+                "name": "raket_legend_sand",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1263,
+                "unbreakable": true
+            },
+            {
+                "name": "plane",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1264,
+                "unbreakable": true
+            },
+            {
+                "name": "planeblue",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1265,
+                "unbreakable": true
+            },
+            {
+                "name": "planedragon",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1266,
+                "unbreakable": true
+            },
+            {
+                "name": "planefighter",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1267,
+                "unbreakable": true
+            },
+            {
+                "name": "planefighter_oranje",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1268,
+                "unbreakable": true
+            },
+            {
+                "name": "planegold",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1269,
+                "unbreakable": true
+            },
+            {
+                "name": "planegreen",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1270,
+                "unbreakable": true
+            },
+            {
+                "name": "planeoctopus",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1271,
+                "unbreakable": true
+            },
+            {
+                "name": "planeorange",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1272,
+                "unbreakable": true
+            },
+            {
+                "name": "planepurple",
+                "allow_offhand": true,
+                "frame": 4,
+                "damage_predicate": 1273,
+                "unbreakable": true
+            }
+        ]
+    }
+}
