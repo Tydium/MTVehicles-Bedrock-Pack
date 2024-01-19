@@ -2,7 +2,7 @@
 A fully converted geyser resource pack for the MTVehicles plugin. As far as I'm concerned everything should be working (sounds, textures, models, and inventory icons). The only minor issue is that transparency does not work on glass currently. Hopefully this can be fixed in the future.
 
 ## WARNING
-This resource pack is not updated to include the new vehicles at this time. This pack hasn't been updated since 1.19. I am currently working on an update for the boats. Please reframe from pinging me in the MTV Discord about this pack if possible. Thank you.
+This resource pack is not updated to include the new vehicles at this time. This pack hasn't been updated since 1.19. I am currently working on an update for the new features. Please reframe from pinging me in the MTV Discord about this pack if possible. Thank you.
 ## Setup
 This setup is intended for users who already have the MTVehicles/Geyser plugin inside of their server. Please make sure you set that up first before attempting this.
 
